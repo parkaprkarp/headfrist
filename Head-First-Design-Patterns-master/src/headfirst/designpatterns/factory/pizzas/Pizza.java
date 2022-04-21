@@ -1,7 +1,7 @@
 package headfirst.designpatterns.factory.pizzas;
 
 import java.util.*;
-
+//팩토리패턴
 abstract public class Pizza {
 	String name;
 	String dough;

@@ -1,7 +1,7 @@
 package headfirst.designpatterns.decorator.io;
 
 import java.io.*;
-
+//데코레이터패턴
 public class InputTest {
 	public static void main(String[] args) throws IOException {
 		int c;
